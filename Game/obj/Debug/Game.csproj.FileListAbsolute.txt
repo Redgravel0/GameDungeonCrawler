@@ -1,0 +1,24 @@
+C:\Users\Eugene\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Eugene\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\Eugene\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.pdb
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\bin\Debug\Game.exe
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\bin\Debug\Game.pdb
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.Gameplay.resources
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.MainMenu.resources
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.exe
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.pdb
+C:\Users\Eugene\Desktop\Новая папка (3)\Game\Game\obj\Debug\Game.Instruction.resources
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.Instruction.resources
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.MainMenu.resources
+C:\Users\Eugene\Desktop\Game\Game\obj\Debug\Game.Gameplay.resources
